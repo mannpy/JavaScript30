@@ -1,1 +1,7 @@
-# JavaScript30
+# JavaScript30 course by Wes Bos
+30 Day Vanilla JS Coding Challenge
+Build 30 things in 30 days with 30 tutorials
+* No Frameworks
+* No Compilers 
+* No Libraries 
+* No Boilerplate
